@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface LXPerson : NSObject
 - (void)test;
+- (void)test2;
 @end
 
 NS_ASSUME_NONNULL_END

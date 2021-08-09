@@ -12,4 +12,7 @@
 - (void)test {
     NSLog(@"Person test");
 }
+- (void)test2 {
+    NSLog(@"test2");
+}
 @end
