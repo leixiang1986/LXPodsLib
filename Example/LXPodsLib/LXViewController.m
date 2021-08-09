@@ -7,6 +7,8 @@
 //
 
 #import "LXViewController.h"
+#import "LXPerson.h"
+#import "Teatcher.h"
 
 @interface LXViewController ()
 

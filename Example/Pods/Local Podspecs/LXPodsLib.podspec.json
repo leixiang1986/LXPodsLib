@@ -1,0 +1,22 @@
+{
+  "name": "LXPodsLib",
+  "version": "0.1.0",
+  "summary": "LXPodsLib",
+  "description": "long description of the pod here.",
+  "homepage": "https://github.com/leixiang1986",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leixiang1986": "leixiang2014@163.com"
+  },
+  "source": {
+    "git": "https://github.com/leixiang1986/LXPodsLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LXPodsLib/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module LXPodsLib {
+  umbrella header "LXPodsLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

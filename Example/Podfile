@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'LXPodsLib_Example' do
-  pod 'LXPodsLib', :path => '../'
+  pod 'LXPodsLib', :path => '../LXPodsLib.podspec'
 
   target 'LXPodsLib_Tests' do
     inherit! :search_paths

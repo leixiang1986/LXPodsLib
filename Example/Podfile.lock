@@ -1,0 +1,16 @@
+PODS:
+  - LXPodsLib (0.1.0)
+
+DEPENDENCIES:
+  - LXPodsLib (from `../LXPodsLib.podspec`)
+
+EXTERNAL SOURCES:
+  LXPodsLib:
+    :path: "../LXPodsLib.podspec"
+
+SPEC CHECKSUMS:
+  LXPodsLib: cc41844c459cf2697fa4def8c65a9c5bfdc39c9a
+
+PODFILE CHECKSUM: 39ee9f6049bf0dbef9b72a3b89ee920245515dac
+
+COCOAPODS: 1.10.0.rc.1
