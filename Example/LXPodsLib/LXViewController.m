@@ -20,6 +20,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    LXPerson *person = [[LXPerson alloc] init];
+    [person test2];
+    NSLog(@"mainBundle:%@",[NSBundle mainBundle]);
+    
 }
 
 - (void)didReceiveMemoryWarning

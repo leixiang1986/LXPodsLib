@@ -1,5 +1,5 @@
 PODS:
-  - LXPodsLib (0.1.0)
+  - LXPodsLib (0.3.0)
 
 DEPENDENCIES:
   - LXPodsLib (from `../LXPodsLib.podspec`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../LXPodsLib.podspec"
 
 SPEC CHECKSUMS:
-  LXPodsLib: cc41844c459cf2697fa4def8c65a9c5bfdc39c9a
+  LXPodsLib: 3627934c5f67292ca52f7aea165c60d9c2f354dd
 
 PODFILE CHECKSUM: 39ee9f6049bf0dbef9b72a3b89ee920245515dac
 

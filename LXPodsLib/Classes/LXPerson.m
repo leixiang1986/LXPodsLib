@@ -13,6 +13,7 @@
     NSLog(@"Person test");
 }
 - (void)test2 {
-    NSLog(@"test2");
+    NSBundle *bundle = [NSBundle bundleForClass:[self class]];
+    NSLog(@"bundel:%@",bundle);
 }
 @end
